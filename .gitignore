@@ -36,9 +36,6 @@ nbdist/
 bin/
 tmp/
 
-# VS Code
-.vscode/
-
 # Mac
 .DS_Store
 
